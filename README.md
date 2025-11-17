@@ -1,2 +1,2 @@
 # ML-Projects
-Machine learning projects, including forecasting and automation tools
+ML projects, including forecasting and automation tools
